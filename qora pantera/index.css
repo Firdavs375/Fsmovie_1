@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+body {
+    cursor: pointer;
+}
+
+.shior {
+    margin-top: 25px;
+    font-family: 'Staatliches', cursive;
+    font-weight: 400;
+}
+
+header {
+    background-color: rgb(38, 38, 38);
+}
+
+.nima {
+    background-color: rgb(53, 1, 242);
+}
+
+.card_2 {
+    width: 600px;
+    display: flex;
+    /* border: 2px solid red; */
+    margin-top: 55px;
+    margin-left: 50px;
+}
+
+.q {
+    width: 100px;
+    margin-top: 20px;
+    background-color: rgb(76, 7, 238);
+    border-radius: 5px;
+    padding: 8px;
+    color: rgb(255, 255, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 400;
+}
+
+.q:hover {
+    background-color: rgb(88, 35, 214);
+    transition: 100ms;
+}
+
+.w {
+    width: 300px;
+    margin-top: 20px;
+    background-color: #5d00ff;
+    border-radius: 5px;
+    padding: 8px;
+    color: #fff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 100;
+}
+
+.w:hover {
+    background-color: #692dd0;
+    transition: 100ms;
+}
+
+.rasm {
+    height: 510px;
+}
+
+.Reklama_div {
+    margin-top: 20px;
+}
+
+.Reklama {
+    height: 200px;
+}
+
+.textlar {
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: 400;
+    font-size: 400%;
+    color: rgb(55, 6, 233);
+    margin-top: 50px;
+}
+
+video {
+    margin-left: 170px;
+    box-shadow: 1px 0px 30px rgb(55, 6, 233);
+}
+
+video:hover {
+    box-shadow: 1px 2px 50px rgb(88, 35, 214);
+    transition: 2s;
+}
+
+.video_div {
+    margin-top: 50px;
+
+}
+
+.Comment_div {
+    width: 1000px;
+    margin-left: 170px;
+    margin-top: 20px;
+}
+
+.izoh {
+    color: red;
+}
+
+.oxirgi_qator {
+    background-color: rgb(37, 35, 39);
+}
+
+.rang {
+    background-color: rgb(37, 35, 39);
+    align-items: center;
+}
+
+.FSlinki {
+    color: white;
+    margin-left: -443px;
+    margin-top: 10px;
+}
+
+.logo_3 {
+    width: 200px;
+}
